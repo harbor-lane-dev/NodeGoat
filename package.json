@@ -64,6 +64,7 @@
   "license": "Apache 2.0",
   "overrides": {
     "minimist@<0.2.4": "0.2.4",
-    "minimist@>=1.0.0 <1.2.6": "1.2.6"
+    "minimist@>=1.0.0 <1.2.6": "1.2.6",
+    "getobject@<1.0.0": "1.0.0"
   }
 }
